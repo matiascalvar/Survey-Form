@@ -1,0 +1,41 @@
+#title, #description{
+    text-align: center;
+    font-size: 1em;
+}
+
+body {
+    background-image: url(img/alexey-savchenko-k4Akpt5-Sfk-unsplash.jpg);
+    background-size: 100%;
+    background-size: cover;
+    font-size: 2em;
+}
+
+#survey-form {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: left;
+    width: 500px;
+    margin: auto;
+    padding: 30px 30px 30px 50px;
+    background-color: grey;
+    opacity: 0.8;
+}
+
+input, select, #dropdown, textarea {
+    border-radius: 8px;
+    font-size: 0.5em;
+    width: 300px;
+}
+
+button {
+    width: min-content;
+    border-radius: 10px;
+    font-size: 0.5em;
+    margin-top: 10px;
+}
+
+div > input {
+    width: auto;
+}
