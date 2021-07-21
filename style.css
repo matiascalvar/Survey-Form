@@ -49,12 +49,13 @@ label, p, select{
 
 @media (max-width: 768px) {
     #survey-form {
-      width: 300px;
-      
+      width: 250px;
+      padding: 30px 30px 30px 30px;
     }
     input, select, #dropdown, textarea {
         border-radius: 8px;
         font-size: 0.5em;
         width: 150px;
     }
+
   }
