@@ -55,7 +55,7 @@ label, p, select{
     input, select, #dropdown, textarea {
         border-radius: 8px;
         font-size: 0.5em;
-        width: 150px;
+        width: 180px;
     }
 
   }
