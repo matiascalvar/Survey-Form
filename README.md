@@ -1,4 +1,6 @@
 # Survey-Form
 
 
-Improve mobile using media queries
+This is a bootcamp project. 
+I parcially implemented Bootstrap later.
+
