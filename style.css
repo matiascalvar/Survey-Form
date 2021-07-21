@@ -47,15 +47,19 @@ label, p, select{
     margin: 10px;
 }
 
+#footer {
+    font-size: 0.5em;
+}
+
 @media (max-width: 768px) {
     #survey-form {
-      width: 300px;
+      width: 350px;
       padding: 30px 30px 30px 30px;
     }
     input, select, #dropdown, textarea {
         border-radius: 8px;
         font-size: 0.5em;
-        width: 230px;
+        width: 270px;
     }
 
   }
